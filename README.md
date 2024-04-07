@@ -14,6 +14,7 @@ This privacy policy describes how we, as developers of the Discord bot, collect,
 This privacy policy is effective as of **2024** and may be updated without prior notice.
 
 
+
 ***NL*** 
 
 **Privacybeleid voor Discord Bot**
@@ -28,3 +29,18 @@ Dit privacybeleid beschrijft hoe wij, als ontwikkelaars van de Discord-bot, gege
 - **Contact**: Voor vragen over ons privacybeleid kunt u contact met ons opnemen via [**Discord**](https://discord.gg/1414).
 
 Dit privacybeleid is van kracht vanaf **2024** en kan worden bijgewerkt zonder voorafgaande kennisgeving.
+
+
+
+***العربية***
+
+**سياسة الخصوصية لبوت ديسكورد**
+
+توضح هذه السياسة الخصوصية كيف نقوم، كمطوري بوت ديسكورد، بجمع واستخدام ومشاركة البيانات. 
+جمع البيانات: نقوم بجمع البيانات اللازمة فقط لوظيفة بوتنا، مثل معرفات المستخدمين ونشاط الخادم.
+استخدام البيانات: نستخدم البيانات لتحسين وظيفة البوت، مثل تخصيص التفاعلات وتحليل نشاط الخادم.
+مشاركة البيانات: لا نشارك البيانات الشخصية مع أطراف ثالثة ما لم يكن ذلك مطلوبًا بموجب القانون.
+حقوق المستخدم: للمستخدمين الحق في الوصول إلى بياناتهم وتصحيحها أو حذفها في أي وقت.
+الاتصال: للاستفسارات حول سياسة الخصوصية لدينا، يمكنك الاتصال بنا عبر ديسكورد.
+
+هذه السياسة الخصوصية سارية المفعول اعتبارًا من عام 2024 وقد يتم تحديثها دون إشعار مسبق.
